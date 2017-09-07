@@ -1,0 +1,21 @@
+ionic cordova platform add browser
+
+ionic cordova run browser
+
+ionic cordova run android
+
+
+---->
+
+
+
+cordova plugin add cordova-plugin-whitelist
+
+cordova platform add android
+
+cordova prepare
+
+ionic cordova run android
+
+
+ionic cordova emulate android
